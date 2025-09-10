@@ -8,12 +8,12 @@ The goal of this project is to develop an AI agent that automates the analysis a
 
 ### Phase 1: Foundation of the Analysis Agent and Initial Setup (TO DO)
 
--   [ ] Configure the Python development environment (venv, requirements.txt).
--   [ ] Implement the connection to the Jira REST API (using `jira-python`).
--   [ ] Develop the module for extracting and summarizing data from the Jira issue.
--   [ ] Implement custom Named Entity Recognition (NER) for software artifacts.
--   [ ] Implement bug category classification (UI/Backend/DB).
--   [ ] Generate the Investigation Query Package (IQP) with a summary, lexical terms, and a semantic vector.
+-   [x] Configure the Python development environment (venv, requirements.txt).
+-   [x] Implement the connection to the Jira REST API (using `jira-python`).
+-   [x] Develop the module for extracting and summarizing data from the Jira issue.
+-   [x] Implement custom Named Entity Recognition (NER) for software artifacts.
+-   [x] Implement bug category classification (UI/Backend/DB).
+-   [x] Generate the Investigation Query Package (IQP) with a summary, lexical terms, and a semantic vector.
 
 ### Phase 2: Core of the Investigation Agent (TO DO)
 
